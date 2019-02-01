@@ -1,0 +1,99 @@
+[QuickStartApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[QuickStartApp | INFO] Creating directory 'C:\Users\bacro\OneDrive\Dev\repos\python_assessments\found_data_science_self_assess'...
+[QuickStartApp | INFO] Copying example from the user guide...
+[QuickStartApp | INFO] Generating example config file...
+[QuickStartApp | INFO] Done! The course files are located in 'C:\Users\bacro\OneDrive\Dev\repos\python_assessments\found_data_science_self_assess'.
+    
+    To get started, you can edit the source notebooks located in:
+    
+        C:\Users\bacro\OneDrive\Dev\repos\python_assessments\found_data_science_self_assess\source\ps1
+    
+    Once you have edited them to your satisfaction, you can create
+    the student version by running `nbgrader assign ps1` from the
+    'C:\Users\bacro\OneDrive\Dev\repos\python_assessments\found_data_science_self_assess' directory.
+    
+    For further details, please see the full nbgrader documentation at:
+    
+        https://nbgrader.readthedocs.io/
+    
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\bacro\OneDrive\Dev\repos\python_assessments
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=7033abe1d6b9ae48e81340614f252b0a73287e5388e9c221
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/bacro/AppData/Roaming/jupyter/runtime/nbserver-6088-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7033abe1d6b9ae48e81340614f252b0a73287e5388e9c221
+[NotebookApp | INFO] Kernel started: 97444935-8fc2-4a03-84ea-ebffb16e6d09
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 97444935-8fc2-4a03-84ea-ebffb16e6d09
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Starting buffering for 97444935-8fc2-4a03-84ea-ebffb16e6d09:657e47d6e13144d08ff60d3549d76509
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 97444935-8fc2-4a03-84ea-ebffb16e6d09
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\bacro\OneDrive\Dev\repos\python_assessments
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=147919767b0337b4923111af72d684385723574ab672687a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/bacro/AppData/Roaming/jupyter/runtime/nbserver-14896-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=147919767b0337b4923111af72d684385723574ab672687a
+[NotebookApp | INFO] Kernel started: b949a20b-c3b5-48de-8948-65109dbe73a8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b949a20b-c3b5-48de-8948-65109dbe73a8
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Uploading file to /source/ubs_am_python_self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | WARNING] Notebook source/ubs_am_python_self_assessment/ubsAM_self_assessment.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | WARNING] delete /source/ubs_am_python_self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Saving file at /found_data_science_self_assess/source/self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | INFO] Starting buffering for b949a20b-c3b5-48de-8948-65109dbe73a8:0454934310b440be884d701e52b09a66
+[NotebookApp | INFO] Uploading file to /source/ubs_am_python_self_assessment/ubsAM_self_assessment.ipynb
+[NotebookApp | WARNING] Notebook source/ubs_am_python_self_assessment/ubsAM_self_assessment.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b8ddfdc0-197b-421e-bfc3-931f31b17409
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b8ddfdc0-197b-421e-bfc3-931f31b17409
+[NotebookApp | INFO] Starting buffering for b8ddfdc0-197b-421e-bfc3-931f31b17409:b83954af6f5740878d0b2562dc01088e
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: b949a20b-c3b5-48de-8948-65109dbe73a8
+[NotebookApp | INFO] Kernel shutdown: b8ddfdc0-197b-421e-bfc3-931f31b17409

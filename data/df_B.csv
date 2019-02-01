@@ -1,0 +1,9 @@
+date,ticker,buy_sell,shares
+12/31/2018,HD,buy,100
+11/30/2018,HD,sell,1000
+10/31/2018,HD,buy,150
+9/30/2018,HD,sell,10000
+12/31/2018,SPY,sell,70
+11/30/2018,SPY,buy,650
+10/31/2018,SPY,sell,100
+9/30/2018,SPY,buy,7100

@@ -1,0 +1,3 @@
+# packages in environment at C:\Users\bacro\Anaconda3\envs\py_assess:
+#
+# Name                    Version                   Build  Channel
